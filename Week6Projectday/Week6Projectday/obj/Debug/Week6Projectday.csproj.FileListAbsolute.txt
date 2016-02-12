@@ -4,3 +4,9 @@ C:\Users\WeCanCodeIT\Documents\Week 6\Week6Projectday\Week6Projectday\bin\Debug\
 C:\Users\WeCanCodeIT\Documents\Week 6\Week6Projectday\Week6Projectday\obj\Debug\Week6Projectday.csprojResolveAssemblyReference.cache
 C:\Users\WeCanCodeIT\Documents\Week 6\Week6Projectday\Week6Projectday\obj\Debug\Week6Projectday.exe
 C:\Users\WeCanCodeIT\Documents\Week 6\Week6Projectday\Week6Projectday\obj\Debug\Week6Projectday.pdb
+C:\Users\Yankri\Documents\WCCI Bootcamp\week6\Week6Projectday\Week6Projectday\bin\Debug\Week6Projectday.exe.config
+C:\Users\Yankri\Documents\WCCI Bootcamp\week6\Week6Projectday\Week6Projectday\obj\Debug\Week6Projectday.exe
+C:\Users\Yankri\Documents\WCCI Bootcamp\week6\Week6Projectday\Week6Projectday\obj\Debug\Week6Projectday.pdb
+C:\Users\Yankri\Documents\WCCI Bootcamp\week6\Week6Projectday\Week6Projectday\bin\Debug\Week6Projectday.exe
+C:\Users\Yankri\Documents\WCCI Bootcamp\week6\Week6Projectday\Week6Projectday\bin\Debug\Week6Projectday.pdb
+C:\Users\Yankri\Documents\WCCI Bootcamp\week6\Week6Projectday\Week6Projectday\obj\Debug\Week6Projectday.csprojResolveAssemblyReference.cache

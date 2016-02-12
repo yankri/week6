@@ -117,13 +117,8 @@ namespace Week6Projectday
                 Console.WriteLine(array[0]);
                 Console.WriteLine("Meeting Notes: ");
                 Console.WriteLine(array[1]);
-
             }
         }
-
-        
-
-
         
         static void Main(string[] args)
         {
@@ -141,6 +136,8 @@ namespace Week6Projectday
                         break;
                     //view team
                     case 2:
+                        ViewTeams viewTeams = new ViewTeams();
+                        ViewTeams.PrintTeams();
                         break;
                     //Exit
                     case 3:

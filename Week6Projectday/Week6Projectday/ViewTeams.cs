@@ -9,7 +9,7 @@ namespace Week6Projectday
     //print out each team 
     //print out everyone Name (Team)
 
-    class ViewTeam
+    class ViewTeams
     {
         static Dictionary<string, string> TeamDictionary = new Dictionary<string, string>()
             {
@@ -56,21 +56,62 @@ namespace Week6Projectday
                 }
             }
 
+            string teamName = "";
+
             switch (choice)
             {
                 case 1:
-                case 2:
-                case 3:
-                case 4:
-                case 5:
-                default:
+                    teamName = teams[0];
+                    GetTeamMembers(teamName);
                     break;
-                    
-
+                case 2:
+                    teamName = teams[1];
+                    GetTeamMembers(teamName);
+                    break;
+                case 3:
+                    teamName = teams[2];
+                    GetTeamMembers(teamName);
+                    break;
+                case 4:
+                    teamName = teams[3];
+                    GetTeamMembers(teamName);
+                    break;
+                case 5:
+                    teamName = teams[4];
+                    GetAllPeople();
+                    break;
+                default:
+                    teamName = teams[4];
+                    GetAllPeople();
+                    break;
             }
-
         }
 
+        public static void GetTeamMembers(string teamName)
+        {
+            if (TeamDictionary.ContainsValue(teamName))
+            {
+                Console.Clear();
+
+                foreach (KeyValuePair<string, string> pair in TeamDictionary)
+                {
+                    if (pair.Value == teamName)
+                    {
+                        Console.WriteLine(pair.Key);
+                    }
+                }
+                Console.ReadKey();
+                Console.Clear();
+            }
+        }
+
+        public static void GetAllPeople ()
+        {
+            foreach (KeyValuePair<string, string> pair in TeamDictionary)
+            {
+                Console.WriteLine(pair.Key + " (" + pair.Value + ")");
+            }
+        }
 
     }
 }
