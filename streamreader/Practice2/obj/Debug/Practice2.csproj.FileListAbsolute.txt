@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\Practice2\bin\Debug\Practice2.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\Practice2\bin\Debug\Practice2.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\Practice2\bin\Debug\Practice2.pdb
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\Practice2\obj\Debug\Practice2.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\Practice2\obj\Debug\Practice2.pdb
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\Practice2\obj\Debug\Practice2.csprojResolveAssemblyReference.cache

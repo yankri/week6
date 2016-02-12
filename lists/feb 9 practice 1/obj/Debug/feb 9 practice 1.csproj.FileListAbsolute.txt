@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\feb 9 practice 1\bin\Debug\feb 9 practice 1.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\feb 9 practice 1\bin\Debug\feb 9 practice 1.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\feb 9 practice 1\bin\Debug\feb 9 practice 1.pdb
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\feb 9 practice 1\obj\Debug\feb 9 practice 1.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\feb 9 practice 1\obj\Debug\feb 9 practice 1.pdb
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\feb 9 practice 1\obj\Debug\feb 9 practice 1.csprojResolveAssemblyReference.cache

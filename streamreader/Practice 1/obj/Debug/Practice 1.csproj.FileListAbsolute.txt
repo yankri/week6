@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\Practice 1\bin\Debug\Practice 1.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\Practice 1\bin\Debug\Practice 1.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\Practice 1\bin\Debug\Practice 1.pdb
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\Practice 1\obj\Debug\Practice 1.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\Practice 1\obj\Debug\Practice 1.pdb

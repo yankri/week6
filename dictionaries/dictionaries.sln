@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictionaries", "dictionaries\dictionaries.csproj", "{8A1D6E57-0A38-4C65-AFB5-B21AF1C56D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice1", "Practice1\Practice1.csproj", "{D8E4F081-4870-4733-840A-3CA9F86D62B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice2", "Practice2\Practice2.csproj", "{7A1E5274-17F3-4BA3-B571-26911E1B244C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A1D6E57-0A38-4C65-AFB5-B21AF1C56D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1D6E57-0A38-4C65-AFB5-B21AF1C56D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1D6E57-0A38-4C65-AFB5-B21AF1C56D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1D6E57-0A38-4C65-AFB5-B21AF1C56D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E4F081-4870-4733-840A-3CA9F86D62B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E4F081-4870-4733-840A-3CA9F86D62B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E4F081-4870-4733-840A-3CA9F86D62B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E4F081-4870-4733-840A-3CA9F86D62B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A1E5274-17F3-4BA3-B571-26911E1B244C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1E5274-17F3-4BA3-B571-26911E1B244C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1E5274-17F3-4BA3-B571-26911E1B244C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1E5274-17F3-4BA3-B571-26911E1B244C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

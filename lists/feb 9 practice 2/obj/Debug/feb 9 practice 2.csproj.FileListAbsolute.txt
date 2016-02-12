@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\feb 9 practice 2\bin\Debug\feb 9 practice 2.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\feb 9 practice 2\bin\Debug\feb 9 practice 2.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\feb 9 practice 2\bin\Debug\feb 9 practice 2.pdb
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\feb 9 practice 2\obj\Debug\feb 9 practice 2.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\feb 9 practice 2\obj\Debug\feb 9 practice 2.pdb

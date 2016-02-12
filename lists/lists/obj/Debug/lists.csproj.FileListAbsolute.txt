@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\lists\bin\Debug\lists.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\lists\bin\Debug\lists.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\lists\bin\Debug\lists.pdb
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\lists\obj\Debug\lists.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\lists\obj\Debug\lists.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\lists\lists\obj\Debug\lists.pdb

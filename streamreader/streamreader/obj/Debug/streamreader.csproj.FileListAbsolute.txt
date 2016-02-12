@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\streamreader\bin\Debug\streamreader.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\streamreader\bin\Debug\streamreader.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\streamreader\bin\Debug\streamreader.pdb
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\streamreader\obj\Debug\streamreader.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\streamreader\obj\Debug\streamreader.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\streamreader\obj\Debug\streamreader.pdb

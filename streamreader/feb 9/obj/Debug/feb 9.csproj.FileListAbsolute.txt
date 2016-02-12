@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\feb 9\bin\Debug\feb 9.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\feb 9\bin\Debug\feb 9.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\feb 9\bin\Debug\feb 9.pdb
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\feb 9\obj\Debug\feb 9.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\streamreader\feb 9\obj\Debug\feb 9.pdb

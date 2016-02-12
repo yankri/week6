@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Documents\Week 6\dictionaries\dictionaries\bin\Debug\dictionaries.exe.config
+C:\Users\WeCanCodeIT\Documents\Week 6\dictionaries\dictionaries\bin\Debug\dictionaries.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\dictionaries\dictionaries\bin\Debug\dictionaries.pdb
+C:\Users\WeCanCodeIT\Documents\Week 6\dictionaries\dictionaries\obj\Debug\dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Week 6\dictionaries\dictionaries\obj\Debug\dictionaries.exe
+C:\Users\WeCanCodeIT\Documents\Week 6\dictionaries\dictionaries\obj\Debug\dictionaries.pdb
