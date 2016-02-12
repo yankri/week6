@@ -8,18 +8,20 @@ namespace Week6Projectday
 {
     class MeetingTopicAndNotes
     {
+        //properties
         public string MeetingTopic { get; set; }
         public string MeetingNotes { get; set; }
         public string Add { get; set; }
         public List<string> Meeting { get; set; }
 
-        //when you say new, this is what it does
+        //constructor, when you say new, this is what it does
         public MeetingTopicAndNotes()
         {
             Meeting = new List<string>();
         }
 
-        public void EnterMeetingTopicNotes()
+        public void EnterMeetingTopicNotes() //this method takes in the users input and adds the topic and notes to the list used to store that information to be later written to the file
+            //lets the user enter meeting topics and notes until they select no
         {
             while (true)
             {
@@ -39,6 +41,7 @@ namespace Week6Projectday
                 {
                     continue;
                 }
+
                 if (addMore == "n" || String.IsNullOrWhiteSpace(addMore))
                 {
                     break;

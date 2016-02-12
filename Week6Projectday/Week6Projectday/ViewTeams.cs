@@ -11,7 +11,7 @@ namespace Week6Projectday
 
     class ViewTeams
     {
-        static Dictionary<string, string> TeamDictionary = new Dictionary<string, string>()
+        Dictionary<string, string> TeamDictionary = new Dictionary<string, string>() //Dictionary contains all team information
             {
                 {"Sam Winchester", "Hunters"},
                 {"Dean Winchester", "Hunters"},
@@ -27,14 +27,15 @@ namespace Week6Projectday
                 {"Ruby", "Demons"}
             };
 
-        static List<string> teams = new List<string>() { "Hunters", "Helpers", "Angels", "Demons", "All Teams" };
+        List<string> teams = new List<string>() { "Hunters", "Helpers", "Angels", "Demons", "All Teams" }; //team names
 
-        public static void PrintTeams ()
+        public void PrintTeams () //this method prints the team options in the menus and takes the input from the user and processes it
         {
             int choice = 0;
 
             while (true)
             {
+                Console.Clear();
                 Console.WriteLine("Enter a number to select a team: ");
                 int counter = 1;
 
@@ -44,7 +45,7 @@ namespace Week6Projectday
                     counter++;
                 }
                 string input = Console.ReadLine();
-                bool result = int.TryParse(input, out choice);
+                bool result = int.TryParse(input, out choice); //try parse to make sure its a number being entered
 
                 if (result == true)
                 {
@@ -58,7 +59,7 @@ namespace Week6Projectday
 
             string teamName = "";
 
-            switch (choice)
+            switch (choice) //assigns the variable teamName with the team from the List containing the names of teams, uses the GetTeamMembers method to print out the members from the selected team 
             {
                 case 1:
                     teamName = teams[0];
@@ -80,19 +81,18 @@ namespace Week6Projectday
                     teamName = teams[4];
                     GetAllPeople();
                     break;
-                default:
+                default: //default prints everyone
                     teamName = teams[4];
                     GetAllPeople();
                     break;
             }
         }
 
-        public static void GetTeamMembers(string teamName)
+        public void GetTeamMembers(string teamName) //this method prints individual teams 
         {
             if (TeamDictionary.ContainsValue(teamName))
             {
                 Console.Clear();
-
                 foreach (KeyValuePair<string, string> pair in TeamDictionary)
                 {
                     if (pair.Value == teamName)
@@ -100,17 +100,23 @@ namespace Week6Projectday
                         Console.WriteLine(pair.Key);
                     }
                 }
+                Console.WriteLine("\nPress any key to continue");
                 Console.ReadKey();
                 Console.Clear();
             }
         }
 
-        public static void GetAllPeople ()
+        public void GetAllPeople () //this method prints all the team members from all teams
         {
+            Console.Clear();
+
             foreach (KeyValuePair<string, string> pair in TeamDictionary)
             {
                 Console.WriteLine(pair.Key + " (" + pair.Value + ")");
             }
+            Console.WriteLine("\nPress any key to continue");
+            Console.ReadKey();
+            Console.Clear();
         }
 
     }
